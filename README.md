@@ -19,3 +19,28 @@ This project is a beginner-level Kaggle competition focused on predicting housin
 - Seaborn
 
 ## Project Structure
+
+
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone <repo-url>
+    ```
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## How to Use
+1. Load the dataset in the `data/` folder.
+2. Run the Jupyter Notebooks in `notebooks/` to explore the data and build models.
+3. Evaluate models and tweak parameters to improve accuracy.
+
+## Future Improvements
+- Improve feature engineering techniques.
+- Experiment with advanced models such as Gradient Boosting and Neural Networks.
+- Fine-tune hyperparameters to further optimize the model performance.
+
+## License
+This project is licensed under the MIT License.
+
